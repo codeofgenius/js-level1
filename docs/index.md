@@ -1,7 +1,7 @@
 ---
 layout: default
-title: トップ / JSレベル1
-description: トップ / JSレベル1
+title: トップ / JavaScriptレベル1
+description: トップ / JavaScriptレベル1　基礎文法1
 ---
 
 # JavaScript レベル1

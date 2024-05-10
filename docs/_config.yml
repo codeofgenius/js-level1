@@ -12,8 +12,8 @@
 baseurl: "/js-level1-ja"
 url: "https://codeofgenius.github.io"
 
-title: JSLevel1
-description: JSLevel1 Document
+title: JavaScriptレベル1
+description: JavaScriptレベル1　基礎文法1
 author: Code of Genius
 
 sass:
